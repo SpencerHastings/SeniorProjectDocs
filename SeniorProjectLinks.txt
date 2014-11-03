@@ -1,1 +1,15 @@
 SeniorProjectLinks:
+
+
+- Tiled
+http://gamedevelopment.tutsplus.com/tutorials/introduction-to-tiled-map-editor-a-great-platform-agnostic-tool-for-making-level-maps--gamedev-2838
+http://www.youtube.com/watch?v=VD44dDjorls
+http://www.seanba.com/introtiled2unity.html
+https://bitbucket.org/vinull/utiled
+
+
+- Unity
+http://unity3d.com/learn/tutorials/modules/live-training-archive
+http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/persistence-data-saving-loading
+http://unity3d.com/learn/tutorials/modules/beginner/scripting
+http://docs.unity3d.com/Manual/GUIScriptingGuide.html
