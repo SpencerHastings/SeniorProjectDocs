@@ -13,3 +13,7 @@ http://unity3d.com/learn/tutorials/modules/live-training-archive
 http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/persistence-data-saving-loading
 http://unity3d.com/learn/tutorials/modules/beginner/scripting
 http://docs.unity3d.com/Manual/GUIScriptingGuide.html
+
+-2D
+http://answers.unity3d.com/questions/10615/rotate-objectweapon-towards-mouse-cursor-2d.html
+http://forum.unity3d.com/threads/changing-sprite-during-run-time.211817/
