@@ -17,3 +17,7 @@ http://docs.unity3d.com/Manual/GUIScriptingGuide.html
 -2D
 http://answers.unity3d.com/questions/10615/rotate-objectweapon-towards-mouse-cursor-2d.html
 http://forum.unity3d.com/threads/changing-sprite-during-run-time.211817/
+
+
+-Graphics
+http://rpgtoolkit.net/tutorials/graphics/lotuswares-pixel-art-tutorial/
