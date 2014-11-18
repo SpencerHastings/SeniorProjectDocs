@@ -22,6 +22,7 @@ http://forum.unity3d.com/threads/changing-sprite-during-run-time.211817/
 -Graphics
 http://rpgtoolkit.net/tutorials/graphics/lotuswares-pixel-art-tutorial/
 http://gas13.ru/v3/tutorials/sywtbapa_making_sprite.php
+http://michaelcummings.net/mathoms/creating-2d-animated-sprites-using-unity-4.3
 
 
 -AI
