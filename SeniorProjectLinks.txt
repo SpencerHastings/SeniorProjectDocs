@@ -17,6 +17,7 @@ http://docs.unity3d.com/Manual/GUIScriptingGuide.html
 -2D
 http://answers.unity3d.com/questions/10615/rotate-objectweapon-towards-mouse-cursor-2d.html
 http://forum.unity3d.com/threads/changing-sprite-during-run-time.211817/
+http://answers.unity3d.com/questions/656776/remove-movement-inertia.html
 
 
 -Graphics
@@ -26,3 +27,4 @@ http://michaelcummings.net/mathoms/creating-2d-animated-sprites-using-unity-4.3
 
 
 -AI
+http://stackoverflow.com/questions/16844020/how-to-make-an-enemy-ai-that-would-follow-the-player-without-rotating-or-looking
